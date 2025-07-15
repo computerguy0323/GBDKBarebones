@@ -3,11 +3,12 @@ GBDK Barebones complete with batchfile for making GB games!
 
 # How to setup
 
-**Move GBDK to C:\gbdk\**
+Move GBDK to C:\gbdk\ IF YOU DON'T DO THIS make.bat WILL NOT WORK!!!!
 
-Then, unzip GBTD (Game Boy Tile Designer) from this link: [https://devrs.com/gb/hmgd/gbtd.html](https://devrs.com/gb/hmgd/gbtd.html)
+Move GBTD to C:\gbtd\
 
-Last, get a emulator from this link: [https://bgb.bircd.org/](https://bgb.bircd.org/)
+Move BGB to C:\bgb\
 
 # VSCode
 You need VSCode for this barebones kit because of c_cpp_properties.json in the .vscode folder!
+
