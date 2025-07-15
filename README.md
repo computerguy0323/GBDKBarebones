@@ -3,7 +3,9 @@ GBDK Barebones complete with batchfile for making GB games!
 
 # How to setup
 
-Move GBDK to C:\gbdk\ IF YOU DON'T DO THIS make.bat WILL NOT WORK!!!!
+Move GBDK to C:\gbdk\ 
+
+**IF YOU DON'T DO THIS make.bat WILL NOT WORK!!!!**
 
 Move GBTD to C:\gbtd\
 
