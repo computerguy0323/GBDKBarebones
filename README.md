@@ -2,9 +2,8 @@
 GBDK Barebones complete with batchfile for making GB games!
 
 # How to setup
-First, download the GBDK from this link: [https://sourceforge.net/projects/gbdk/files/](https://sourceforge.net/projects/gbdk/files/)
 
-**MAKE SURE YOU PUT GBDK IN C:\GBDK**
+Unzip **gbdk-2.95-3-win32.zip** to **C:\gbdk\** _THIS IS SO IMPORTANT!!!!
 
 Then, get GBTD (Game Boy Tile Designer) from this link: [https://devrs.com/gb/hmgd/gbtd.html](https://devrs.com/gb/hmgd/gbtd.html)
 
